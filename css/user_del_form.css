@@ -1,0 +1,99 @@
+#mp_subject_section01 .section_title {
+    text-align: left;
+    font-size: 40px;
+    padding-top: 88px;
+}
+
+#mp_subject_section01 .section_smallText {
+    text-align: left;
+    font-size: 20px;
+    color: #8d8d8d;
+}
+
+.delRea_subtitle {
+    font-size: 32px;
+    margin-top: 48px;
+
+}
+
+.delRea_subtitle strong {
+    color: #9D4BE7;
+}
+
+.delRea_smallText {
+    font-size: 24px;
+    margin-bottom: 48px;
+}
+
+.delRea_smallalert {
+    display: inline !important;
+    color: #a1a1a1;
+    font-size: 16px;
+    margin-left: 16px;
+}
+
+.delRea_buttonBox_item {
+    width: 260px;
+    height: 50px;
+    text-align: center;
+    line-height: 50px;
+    background-color: #f4f4f4;
+    border-radius: 8px;
+    margin-bottom: 16px;
+    cursor: pointer;
+}
+
+.delRea_buttonBox {
+    margin-bottom: 32px;
+}
+
+.delRea_buttonBox_item:hover {
+    background-color: #9D4BE7;
+    color: white;
+}
+
+.delRea_textArea {
+    width: 964px;
+    height: 255px;
+    border: none;
+    outline: none;
+    resize: none;
+    border: 1px solid #eddeff;
+    border-radius: 8px;
+    padding-left: 58px;
+    padding-right: 58px;
+    padding-top: 48px;
+
+}
+
+.mypage_introText_box {
+    width: 100%;
+    height: 192px;
+    background-color: #f4f4f4;
+    margin-top: 24px;
+    margin-bottom: 72px;
+    color: #888;
+}
+
+.mypage_introText_box ul {
+    padding-left: 48px;
+    padding-top: 26px;
+}
+
+
+.mypage_introText_title {
+    padding-left: 48px;
+    font-size: 20px;
+    padding-top: 32px;
+}
+
+.mypage_introText_li {
+    padding-left: 32px;
+    font-size: 16px;
+    padding-bottom: 8px;
+}
+
+.button_box {
+    text-align: center;
+    margin-bottom: 120px;
+}

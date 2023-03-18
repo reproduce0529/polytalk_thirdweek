@@ -1,0 +1,64 @@
+#mp_subject_section01 .section_title {
+    text-align: left;
+    font-size: 40px;
+    padding-top: 88px;
+}
+
+#mp_subject_section01 .section_smallText {
+    text-align: left;
+    font-size: 20px;
+    color: #8d8d8d;
+}
+
+#mp_subject_section01 {
+    margin-bottom: 120px;
+}
+
+.mypage_table_head {
+    border-bottom: 2px solid #d9d9d9;
+}
+
+
+.cahr_item_list_div {
+    width: 756px;
+
+}
+
+.cahr_item_list {
+    justify-content: left;
+}
+
+.cahr_item {
+    width: 80px;
+    height: 80px;
+    background-color: #d9d9d9;
+    border-radius: 8px;
+    margin-right: 16px;
+}
+
+.cahr_item_title {
+    font-size: 20px;
+    margin-bottom: 16px;
+}
+
+.cahr_item_selected {
+    border: 5px solid #9D4BE7;
+}
+
+.cahr_item_list_div {
+    margin-bottom: 16px;
+}
+
+.mypage_table_body {
+    margin-top: 48px;
+}
+
+.name_button {
+    width: 1080px;
+    border-radius: 8px;
+    height: 80px;
+    line-height: 80px;
+    text-align: center;
+    background-color: #f4f4f4;
+    font-size: 24px;
+}

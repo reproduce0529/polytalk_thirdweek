@@ -1,0 +1,66 @@
+#mp_subject_section01 .section_title {
+    text-align: left;
+    font-size: 40px;
+    padding-top: 88px;
+}
+
+#mp_subject_section01 .section_smallText {
+    text-align: left;
+    font-size: 20px;
+    color: #8d8d8d;
+}
+
+.section_subtitle {
+    font-size: 24px;
+    font-weight: 500;
+    margin-top: 42px;
+    margin-bottom: 56px;
+}
+
+.section_subtitle strong {
+    color: #9D4BE7;
+
+}
+
+.user_del_form {
+    width: 100%;
+    height: 180px;
+    border-radius: 8px;
+    background-color: #F9F4FE;
+    margin-bottom: 120px;
+}
+
+.mypage_user_delform_label {
+    font-size: 20px;
+    margin-left: 50px;
+    display: inline-block;
+    width: 120px;
+    margin-right: 24px;
+}
+
+.mypage_user_delform_input {
+    width: 300px;
+    height: 40px;
+    background-color: white;
+    border-radius: 8px;
+}
+
+.user_del_form form {
+    padding-top: 36px;
+}
+
+.form_innerBox {
+    margin-bottom: 16px;
+}
+
+.login_violet_button {
+    width: 220px;
+    height: 40px;
+    text-align: center;
+    line-height: 40px;
+    color: white;
+    background-color: #9D4BE7;
+    display: inline-block;
+    border-radius: 8px;
+    margin-left: 36px;
+}

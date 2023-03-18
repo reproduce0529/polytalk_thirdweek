@@ -1,0 +1,167 @@
+.form_profile_box_head {
+    width: 100%;
+    height: 70px;
+    border-top-right-radius: 8px;
+    border-top-left-radius: 8px;
+    border: 1px solid #DAB1FF;
+    justify-content: left;
+    font-size: 20px;
+}
+
+.form_profile_box_head img {
+    margin-left: 16px;
+}
+
+.form_profile_box_head span {
+    margin-left: 32px;
+}
+
+#mp_subject_section01 .section_title {
+    text-align: left;
+    font-size: 40px;
+    padding-top: 88px;
+}
+
+#mp_subject_section01 .section_smallText {
+    text-align: left;
+    font-size: 20px;
+    color: #8d8d8d;
+}
+
+.mypage_user_edit_form {
+    margin-top: 24px;
+    margin-bottom: 32px;
+}
+
+.button_box {
+    margin-bottom: 120px;
+}
+
+.form_profile_box_body {
+    background-color: #9D4BE7;
+    width: 100%;
+    height: 150px;
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+    justify-content: left;
+
+
+}
+
+.form_profile_box_body_imgBox {
+    width: 96px;
+    height: 96px;
+    margin-left: 32px;
+}
+
+.form_profile_box_body_TextBox {
+    margin-left: 64px;
+}
+
+.form_profile_box_body_TextBox p {
+    font-size: 20px;
+    color: white;
+
+}
+
+.button_box {
+    text-align: center;
+}
+
+.form_inner_title {
+    margin-top: 24px;
+    margin-bottom: 24px;
+    font-size: 24px;
+}
+
+form .section_smallText {
+    font-size: 16px !important;
+    margin-bottom: 14px;
+
+}
+
+.form_inner_label {
+    display: block;
+    font-size: 20px;
+    margin-bottom: 8px;
+}
+
+.form_inner_input_Box {
+    width: 1060px;
+    padding-left: 20px;
+    height: 60px;
+    font-size: 16px;
+    border: none;
+    outline: none;
+    border: 2px solid #eddeff;
+    border-radius: 8px;
+}
+
+.form_inner_inutBox_div {
+    margin-bottom: 48px;
+}
+
+.form_inner_radio_text {
+    margin-top: 16px;
+}
+
+.form_inner_radio_text strong {
+    color: #9D4BE7;
+}
+
+.semi_purple_button {
+    background-color: #E3CCFF;
+    color: #9D4BE7;
+    width: 230px;
+    text-align: center;
+    height: 60px;
+    line-height: 60px;
+    border-radius: 8px;
+    font-size: 16px;
+
+
+}
+
+.form_inner_gray_box {
+    background-color: #f4f4f4;
+    border-radius: 8px;
+    width: 840px;
+    height: 60px;
+}
+
+.phone_injeong {
+    margin-top: 24px;
+}
+
+.form_inner_inutBox_account_box {
+    justify-content: left;
+    width: 860px;
+    height: 104px;
+    border: 2px solid #eddeff;
+    border-radius: 8px;
+
+}
+
+.iconImg {
+    margin-left: 32px;
+}
+
+.acc_mainText {
+    margin-left: 24px;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.acc_mainTextBoxx {
+    margin-left: 24px;
+}
+
+.semi_inline_button {
+    width: 200px;
+    height: 104px;
+    text-align: center;
+    line-height: 104px;
+    background-color: #eddeff;
+    border-radius: 8px;
+    color: #9D4BE7;
+}

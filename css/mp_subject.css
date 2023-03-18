@@ -1,0 +1,11 @@
+#mp_subject_section01 .section_title {
+    text-align: left;
+    font-size: 40px;
+    padding-top: 88px;
+}
+
+#mp_subject_section01 .section_smallText {
+    text-align: left;
+    font-size: 20px;
+    color: #8d8d8d;
+}
